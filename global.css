@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+:root{
+    --cor-primaria: #1D376C;
+    --cor-secundaria: #F59323;
+    --cor-terciaria: #FABF80;
+    
+    --texto-preto: #333333;
+    --texto-branco: #ffffff;
+    --texto-secundario: #F59323;
+
+    --cor-table: #d9d9d9;
+
+    --cor-sucesso: #A7D741;
+    --cor-perigo: #FF0505;
+    --cor-informacao: #40A8CE;
+    --cor-cinza: #6E7C7C;
+
+    --fonte-primaria: "Urbanist", sans-serif;
+}
+
+.texto-preto{
+    color: var(--texto-preto) !important;
+}
+
+.texto-branco{
+    color: var(--texto-branco) !important;
+}
+
+.texto-primario{
+    color: var(--cor-primaria) !important;
+}
+
+.texto-secundario{
+    color: var(--texto-secundario) !important;
+}
+
+.fonte-urbanist{
+    font-family: var(--fonte-primaria) !important;
+}
+
+.bg-primaria{
+    background-color: var(--cor-primaria) !important;
+}
+
+.bg-secundaria{
+    background-color: var(--cor-secundaria) !important;
+}
+
+.bg-terciaria{
+    background-color: var(--cor-terciaria) !important;
+}
+
+.bg-sucesso{
+    background-color: var(--cor-sucesso) !important;
+}
+
+.bg-perigo{
+    background-color: var(--cor-perigo) !important;
+}
+
+.bg-informacao{
+    background-color: var(--cor-informacao) !important;
+}
+
+.bg-cinza{
+    background-color: var(--cor-cinza) !important;
+}
+
+.bg-table{
+    background-color: var(--cor-table) !important;
+}
+
+.tab-menu-ativo{
+    border-top: 10px solid var(--cor-primaria) !important;
+}
