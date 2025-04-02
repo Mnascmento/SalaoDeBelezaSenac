@@ -1,7 +1,9 @@
 # Projeto Integrador Senac
-O objetivo desse projeto é criar um site de agendamento e gerenciamento para o Salão de Beleza Senac
+Este projeto tem como objetivo um site de agendamento e gerenciamento para o Salão de Beleza Senac. A plataforma permite que clientes agendem serviços de forma online, consultem horários disponíveis e recebam confirmações. Além disso, o sistema oferece uma área administrativa para que os funcionários possam gerenciar os agendamentos, cadastrar serviços, horários de atendimento e acompanhar o fluxo de clientes. O projeto busca proporcionar uma experiência intuitiva, prática e eficiente tanto para os clientes quanto para a equipe do salão.
+
 # Sobre as tecnologias
 Esse site foi desenvolvido apenas com HTML, CSS, JS e Bootstrap
+
 # Equipe Capitech
 
 <ul>
